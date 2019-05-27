@@ -1,0 +1,75 @@
+﻿6555d81c-0f91-4c25-881c-58af31c84250;Manchester United;Manchester;6a3687bc-1c17-4ffb-8bad-004694216a56
+a4144fd7-5ac6-4104-9d9e-1fcabd2c2cf6;Manchester City;Manchester;6a3687bc-1c17-4ffb-8bad-004694216a56
+754cd9e8-f18e-4d13-9c8e-0974de7fec7c;Liverpool;Liverpool;6a3687bc-1c17-4ffb-8bad-004694216a56
+ee31d8d0-1069-45fb-8acb-14d2e84ac2cf;Everton;Liverpool;6a3687bc-1c17-4ffb-8bad-004694216a56
+a05129d9-ab49-47c3-817e-401be17f2cfb;Arsenal;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+6c419b26-8116-43a8-9ab5-48a4bb111ae8;Chelsea;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+8d8de96d-cd95-4d69-ae5b-b549325fcd23;Tottenham Hotspur;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+35fb18bd-abfa-4b11-b32b-0bb54f20d1c5;Crystal Palace;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+4d2e9453-ef85-4f7e-ac8c-ee9d6061cc9e;West Ham United;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+8fecbb3a-cea1-4c1d-808c-9d1332be015f;Newcastle United;Newcastle;6a3687bc-1c17-4ffb-8bad-004694216a56
+3afbcdda-c007-49b0-bb6f-6911e8cd7e6b;Leicester City;Leicester;6a3687bc-1c17-4ffb-8bad-004694216a56
+40303ecc-c27c-47c8-a9b8-66dfccf362ff;Burnley;Burnley;6a3687bc-1c17-4ffb-8bad-004694216a56
+da7a2857-6c5c-4672-bfd2-9d2d66d81545;Southampton;Southampton;6a3687bc-1c17-4ffb-8bad-004694216a56
+2534e4ce-26fe-428b-ad3d-bd08da367957;Bournemouth;Bournemouth;6a3687bc-1c17-4ffb-8bad-004694216a56
+4f95c0a6-8611-46c1-8d13-26879de28296;Brighton & Hove Albion;Brighton;6a3687bc-1c17-4ffb-8bad-004694216a56
+25da864f-7414-4899-8ab0-19102e245251;Fulham;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+a7619d77-d8fc-4872-8c39-7c325ea0c935;Huddersfield Town;Huddersfield;6a3687bc-1c17-4ffb-8bad-004694216a56
+35228e08-cf48-4414-8769-bdd0e693b307;Wolverhampton Wanderers;Wolverhampton;6a3687bc-1c17-4ffb-8bad-004694216a56
+0837064d-e102-43d9-8f8d-c5f5e24bb125;Watford;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+f793e18e-a906-4036-b77c-f15cfc00dde9;Cardiff City;Cardiff;6a3687bc-1c17-4ffb-8bad-004694216a56
+39429e17-260f-434f-9004-d3120b47966b;Norwich City;Norwich;6a3687bc-1c17-4ffb-8bad-004694216a56
+21ac4adf-e061-40c7-8f84-0d64301b4b94;Aston Villa;Birmingham;6a3687bc-1c17-4ffb-8bad-004694216a56
+7f244218-5fab-4986-a81c-07cc716d8b0e;West Bromwich Albion;West Bromwich;6a3687bc-1c17-4ffb-8bad-004694216a56
+b915ab36-e723-4cea-b24e-ce75547e6e0c;Leeds United;Leeds;6a3687bc-1c17-4ffb-8bad-004694216a56
+c8d4ef27-4524-48ef-af1d-4fc2c1d092b4;Sheffield United;Sheffield;6a3687bc-1c17-4ffb-8bad-004694216a56
+38e33ca4-6adb-4a46-8fd8-15d770682a56;Stoke City;Stoke;6a3687bc-1c17-4ffb-8bad-004694216a56
+225522f6-bd33-448e-8562-5ff56d0bcf24;Derby County;Derby;6a3687bc-1c17-4ffb-8bad-004694216a56
+1c033da1-5e1d-4b9b-9d55-4fb387e47629;Blackburn Rovers;Blackburn;6a3687bc-1c17-4ffb-8bad-004694216a56
+5c06ca57-5670-446c-bf3e-b081cf8e4c44;Queens Park Rangers;London;6a3687bc-1c17-4ffb-8bad-004694216a56
+bb5211f5-6ffe-4734-b038-15880b6a7e10;Nottingham Forest;Nottingham;6a3687bc-1c17-4ffb-8bad-004694216a56
+bc308d72-4640-48f1-903a-06585d4f52ac;FC Barcelona;Barcelona;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+cc8d6239-774e-4973-b2d6-424e7b6f3f0a;Atletico Madrid;Madrid;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+462ee502-0e66-45c8-b4d6-2b5a43b21418;Real Madrid;Madrid;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+54bca5d5-8219-45b9-85f9-d7e2cf40ef27;Getafe;Getafe;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+ba346cbe-7dd7-4a41-9265-6fd6ca02ac43;Valencia;Valencia;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+17eb3c35-996f-4f56-974c-dbaa5df3cd8e;Sevilla;Sevilla;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+703fdb01-1075-4d42-adb1-0681402d2abb;Athletic Bilbao;Bilbao;17dd1dac-1533-49a5-b62a-5e6379b9ef35
+892974e2-c6b2-437e-862a-166699db674b;Juventus;Torino;e10eb268-6931-43ad-9524-aff89db80723
+cb27cd8a-96b6-43eb-8055-7eb915dfd196;Napoli;Naples;e10eb268-6931-43ad-9524-aff89db80723
+5e372706-fcec-487a-9b74-47869b29bdac;Inter;Milano;e10eb268-6931-43ad-9524-aff89db80723
+7ce0b8a7-e24c-4634-bce0-cab84be1a51a;Atalanta;Bergamo;e10eb268-6931-43ad-9524-aff89db80723
+b429598a-0438-4073-a049-c9211bbcb48b;Roma;Roma;e10eb268-6931-43ad-9524-aff89db80723
+95827f58-831b-4012-a45d-fb602465a759;Torino;Torino;e10eb268-6931-43ad-9524-aff89db80723
+f06e743d-1d56-4916-8c00-a14a0bb0eab3;AC Milan;Milano;e10eb268-6931-43ad-9524-aff89db80723
+24f57fef-ad68-4977-9d7a-3b97fc1ce457;Lazio;Roma;e10eb268-6931-43ad-9524-aff89db80723
+3203fa24-6e47-4fcf-b799-5a6f6ff12d26;Fiorentino;Florence;e10eb268-6931-43ad-9524-aff89db80723
+98cd7832-3d00-431a-9aa2-60ab5e1b19e4;Ajax;Amsterdam;8c0efdc6-3d5c-40b7-827e-ec41d90d96f1
+2be742c0-490c-431d-8574-34cc077cc542;PSV;Eindhoven;8c0efdc6-3d5c-40b7-827e-ec41d90d96f1
+f339df64-cbe1-461f-bd45-45cd8f15b21e;Bayern Munchen;Munich;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+feaf3400-21fe-425c-8b96-fcb5a392bbdb;Borussia Dortmund;Dortmund;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+1f7aec51-f7ef-4268-8e7b-0b972e478e32;RB Leipzig;Leipzig;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+e926731a-b2ca-4965-9a24-305b60b41efe;Eintracht Frankfurt;Frankfurt;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+3b16a668-a5c0-4137-a383-8d650bdbcff2;Bayer 04 Leverkusen;Leverkusen;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+a8eae627-9341-41ed-84d3-e8cf703bac1f;Wolfsburg;Wolfsburg;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+e0bea0e3-a46b-4ac6-b6eb-d91dd039f6f9;Hertha Berlin;Berlin;cc81dfe3-f28a-4d8a-8fd6-23edc19836af
+82a8d7fa-0633-470d-9bb6-f086167a0e9a;Rosenborg;Trondheim;f6387c89-4102-4b1c-9b73-777c1f838373
+5679a5f2-7fdf-4b84-8e72-c0cea9238c08;Molde;Molde;f6387c89-4102-4b1c-9b73-777c1f838373
+0e4cb477-0060-4d33-a8d1-725e5ebe2ccd;Brann;Bergen;f6387c89-4102-4b1c-9b73-777c1f838373
+f8d58be7-e521-4cde-a75b-ef1babd76c2b;Vålerenga;Oslo;f6387c89-4102-4b1c-9b73-777c1f838373
+aef85129-0dc6-4ca6-8edc-11898a1110dc;Bodø/Glimt;Bodø;f6387c89-4102-4b1c-9b73-777c1f838373
+c4597edf-75dc-4357-a302-3aa9076d3de3;Odd;Skien;f6387c89-4102-4b1c-9b73-777c1f838373
+548ff887-2ec3-4eeb-93a0-f5c424f06981;Kristiansund;Kristiansund;f6387c89-4102-4b1c-9b73-777c1f838373
+900324b0-95b3-4ce7-9d3d-34db41f860d8;Viking;Stavanger;f6387c89-4102-4b1c-9b73-777c1f838373
+1a971bff-1d96-47f3-9520-1d8d11fea33a;Lillestrøm;Lillestrøm;f6387c89-4102-4b1c-9b73-777c1f838373
+b8b329ff-588c-4cee-82a1-0741010ca568;Strømsgodset;Drammen;f6387c89-4102-4b1c-9b73-777c1f838373
+39df8c7e-cb15-4ccb-bbc0-996adad53975;Boca Juniors;Buenos Aires;7664a3b5-3fef-419e-8789-870b056c2c96
+e28f3e20-70d8-4f54-960d-23b8b1de8521;River Plate;Buenos Aires;7664a3b5-3fef-419e-8789-870b056c2c96
+341dd096-9c56-4254-861f-71b6eaf54382;Velez Sarsfield;Buenos Aires;7664a3b5-3fef-419e-8789-870b056c2c96
+0559e267-7760-45ec-8927-c9cb9d1e2812;Estudiantes;La Plata;7664a3b5-3fef-419e-8789-870b056c2c96
+67673c37-cbc0-4b81-a7ba-c2e0f064f48a;Sao Paulo;Sao Paulo;7ecb969f-8595-4636-a1d9-3a19a3c942cf
+6169dc1a-251c-4abf-abce-b2cda8fda1a4;Santos;Santos;7ecb969f-8595-4636-a1d9-3a19a3c942cf
+5561cfcd-e07a-44a4-a0f6-5738ad20d4ae;Corinthians;Sao Paulo;7ecb969f-8595-4636-a1d9-3a19a3c942cf
+748191db-58f7-455d-9423-82594a6403c3;Flamengo;Rio de Janeiro;7ecb969f-8595-4636-a1d9-3a19a3c942cf
+3acdb2c0-dc92-400d-bdda-440495e726aa;Internacional;Porto Alegre;7ecb969f-8595-4636-a1d9-3a19a3c942cf
+fbda44af-9210-4012-bbf5-35dda17fd05b;Vasco da Gama;Rio de Janeiro;7ecb969f-8595-4636-a1d9-3a19a3c942cf

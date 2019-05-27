@@ -1,0 +1,225 @@
+﻿7e2bce15-624b-4258-816a-6b56d91e8733;Afghan
+fe353467-27bd-4ac5-9b34-27f2a104e7cc;Albanian
+d8685a1b-df74-43b0-b099-342d78f9b32d;Algerian
+65322062-0d52-4970-b10e-9fb89846dc87;American
+a2282161-98af-4a4c-9bb1-d0400a6cbe82;Andorran
+6f106913-7f8e-44e3-977f-69eb48254d68;Angolan
+20af1f11-874d-446f-81b7-af9ad2645ee8;Anguillan
+5707d034-0f62-4191-bdad-8319840c25a5;Argentine
+1b2e0564-e398-4664-ba9a-7207937559f2;Armenian
+7d89eb0e-abcf-4fa6-87fc-ed5e6b47fc70;Australian
+668ac095-31db-4adc-ac7c-24dc19c73b47;Austrian
+3eff1b56-23af-49b4-8c32-3c56cba74d2a;Azerbaijani
+7f0e0b6e-5d37-493c-8b1f-9049f0b934f1;Bahamian
+17944587-6a40-4814-9cad-6a1ff7bf9d25;Bahraini
+61db6600-8713-4474-84c6-4eca1e6bd87e;Bangladeshi
+e6ef0349-bb30-443d-a4f0-2d3eea2b1b6c;Barbadian
+b32196ba-346c-4cce-95f4-41a24313f18e;Belarusian
+c7497db4-a4a5-4aef-ac30-cd37c4d04684;Belgian
+0c728382-dc80-4af3-ac6d-50c528dc049c;Belizean
+34e442b1-a98b-407a-bd5e-58f5a2ea7c9a;Beninese
+e39356b1-1643-453c-89a5-5fde99737270;Bermudian
+56eb0f99-e0b4-411e-a3dd-bb947a23d841;Bhutanese
+ee557358-5571-4547-8d2c-0bd3b5531c94;Bolivian
+17ead747-8c0f-4ae1-885e-62aac3e8ebc0;Botswanan
+2ed4e21d-2a3b-47a9-9c46-ae0ac685bf5a;Brazilian
+0a80a54f-c80e-4188-85f4-498bc1f7aa74;British
+ed494afb-cefc-4ad4-b01d-bb7c0e7f1445;British Virgin Islander
+6273032a-7dd9-48f4-a245-6cb674f64c17;Bruneian
+9cdde8b6-36f0-445e-9239-ab341a5dbdc5;Bulgarian
+00cf87a8-d5d9-44ab-8b7b-ac86df8a98a4;Burkinan
+172b0c48-fbe4-40f2-8a86-62cead85e59e;Burmese
+137a7a61-2aba-4af8-a019-73f63416dc5e;Burundian
+83a3b981-3d24-4dc4-851a-19cbb3520b18;Cambodian
+9a8ea493-9860-44ec-ba29-3e57a45af5ed;Cameroonian
+dfc29744-96b2-492a-b209-121f016b0209;Canadian
+315ec9f1-0eb1-4257-9433-b16a24806e30;Cape Verdean
+bd2dfc88-2814-4788-9a29-6fc4d99c6cb8;Cayman Islander
+7a707dec-07c0-4bc0-a355-cf487fbc5ed0;Central African
+9fa2f69a-bb0e-4baf-934e-bbc2c2a2b5a2;Chadian
+832f07f0-0676-4902-bee3-35a136c54990;Chilean
+25c50a02-c35c-45a5-9404-606f6c11f844;Chinese
+09ff8bd3-9c06-4bd3-91ad-354d16dffe7d;Citizen of Antigua and Barbuda
+7c510b6a-e9cd-4171-9516-1052c9a9d25a;Citizen of Bosnia and Herzegovina
+280e94dc-c46c-46db-a70b-53ef926a96be;Citizen of Guinea-Bissau
+60fd1def-6794-434b-aef2-61803d18a485;Citizen of Kiribati
+239d4a0f-d48f-49f4-afb3-599a05a25fd0;Citizen of Seychelles
+80423876-5b01-40ec-9b10-bc9c1b2346c1;Citizen of the Dominican Republic
+b2a68285-b796-46a7-affc-2b4b24c7f619;Citizen of Vanuatu 
+32f0cba0-1762-404c-8aa3-b51c326966dd;Colombian
+f14767e0-49b8-4bdd-9cea-154c956f5694;Comoran
+eac5507f-0855-4cd1-9150-3d3cd95ea4b6;Congolese (Congo)
+5600a1fe-9856-48c4-b51e-c3ea3209fa74;Congolese (DRC)
+bba926d6-4f9c-435a-8312-40a38b222f35;Cook Islander
+b762c83a-9ab8-4e4b-8af4-186c4b28b3f5;Costa Rican
+f5ad0be4-65f7-4a76-abcd-239aa2e67b7d;Croatian
+10cb7033-4a2a-42ef-b8ae-6da1e7d3c48b;Cuban
+67a952d4-9d64-4b4f-8dd8-476531cd2afd;Cymraes
+f3ed4f71-5767-4be2-bfd5-f8b444c65100;Cymro
+a260c7bd-37c1-475f-8c40-ae45d28ff8b0;Cypriot
+f8790528-b5a6-4326-8927-c30a027c4d89;Czech
+2632ce09-6f50-4648-a96c-9fd63a934dd6;Danish
+c338fa24-311d-4b9c-acb4-12aca7f52905;Djiboutian
+a1566fd8-3de8-4572-9035-b39d855f0536;Dominican
+4e9eae19-c778-4233-afe1-b111fa7faf7b;Dutch
+dd459837-6a6d-4580-8f0a-9c9893987c0d;East Timorese
+a7d6a1ac-01bc-44bb-8298-fac7f88c76e3;Ecuadorean
+65859f3e-bea7-43af-a146-86fe28006fad;Egyptian
+f0178cda-103c-425f-9e70-9a9db88f864a;Emirati
+0e000d51-f4ce-49ab-b752-29aa0e90cc1c;English
+c8f8b674-5e84-4b28-8fd4-f2671bddcf64;Equatorial Guinean
+fc321eda-89c2-46a0-80cf-908d0cf2af1e;Eritrean
+b26c8b33-655f-4f07-97bd-d6316d4f05c4;Estonian
+a1a7e8d5-af8c-46d2-8672-80c80b5d50bb;Ethiopian
+057f3258-61f1-4026-93e7-ac2871d3c873;Faroese
+7b5a8422-61cc-40e3-92c3-42c284f5cf44;Fijian
+916b195c-802b-453e-ac9f-91de25bedd4b;Filipino
+b1dd9a08-f05d-4e56-9279-2b8abf1360e3;Finnish
+2361218b-0eee-4cb0-95dc-e6515abcd9a1;French
+604b75f2-c673-4023-907e-cdf3b0ccce3d;Gabonese
+9f093640-6595-47ac-a63d-7033beea2736;Gambian
+07627a75-5264-4781-a116-282d61ddd9ba;Georgian
+9d206613-08f3-4fb0-84e1-1fc462db8e21;German
+984b3ea6-a838-435e-a369-e750372e306e;Ghanaian
+56845fd6-78f9-41db-9d03-31e5d8cf6f7c;Gibraltarian
+7e51f021-b387-4191-a06e-872aa5a8e121;Greek
+bc54e9d1-3099-4898-85ec-49fd7da94537;Greenlandic
+8429e628-2881-4ede-810e-6565f31ec631;Grenadian
+b0d50bb5-38a9-4fd1-bd84-871f057ecff3;Guamanian
+a5626bc7-a832-4a4f-bf1f-442ed7576edf;Guatemalan
+d3ef2403-01a2-431b-84cd-6f55b6cd372d;Guinean
+bfe36a19-221c-448e-ae5e-670baaf7c71c;Guyanese
+6d868496-bc29-4570-addb-0123ca037d00;Haitian
+ed8b19aa-41f3-4565-8a0b-c71f4117e1e6;Honduran
+42eda04d-7998-455f-912b-515238dd30ca;Hong Konger
+b929e22d-866b-4dc4-bbed-aa408214b71f;Hungarian
+3313633c-777a-4e0d-b325-018694fcd7b5;Icelandic
+447eee20-c6f4-466c-9b97-3e0b275a289a;Indian
+ec3c2aef-6eba-41af-9e18-f68374e878aa;Indonesian
+e8c98a4e-3adb-4e72-823a-64982895e37c;Iranian
+38f34c51-42a6-4376-9cf7-7eb9e45c6e7a;Iraqi
+7ecd7962-b4ce-4dad-b001-2ad5a777b0b5;Irish
+789c947e-ac73-4104-8005-2c5d1796e794;Israeli
+051407e9-e7a8-4a7d-b694-d1e7e5688984;Italian
+9ceb745c-1135-4530-87d3-74451dd7f25e;Ivorian
+fabbf496-f450-438a-b389-0f3f879d92a7;Jamaican
+b17b7465-c51f-4713-bb88-c3891f4443d6;Japanese
+010e58b1-b3ea-4840-b50b-6509a3e6662a;Jordanian
+f227c05a-de52-4139-8efa-8a3a98d755cb;Kazakh
+063cb7fd-dd2c-4f8e-9675-1b7197b7a478;Kenyan
+48a8fbe2-49f7-41a1-ad30-fe7106859e93;Kittitian
+613cb518-8279-42ef-b785-447e7fe6867f;Kosovan
+776caa46-ac5f-429b-a9c2-1ab6e732c4bf;Kuwaiti
+43fc9798-5aef-46e3-bdf3-2cb79bbaf890;Kyrgyz
+ebc10e62-a9ee-49b7-ae1f-8453583c1fdc;Lao
+dfc2d1b5-7cfb-455d-936f-c385f49b719d;Latvian
+f8e2ebb0-ff23-4a2b-b764-0791c1626763;Lebanese
+ea8d91af-73bd-42f2-b2b6-746b5e0961d1;Liberian
+4af5ee97-fa6b-400e-87f5-c6cb10546e80;Libyan
+f15e961e-9cc0-410d-bb52-6f79e4cfa8a8;Liechtenstein citizen
+a56db300-8199-4566-ba6d-e847804b5048;Lithuanian
+84ca647f-2d1f-4a37-9387-5b446d7b7077;Luxembourger
+9568226e-5cc8-4996-ac58-affcf8285988;Macanese
+0b4fc434-3ed6-4b03-8f89-884167578a77;Macedonian
+604c3402-8210-4fb8-9db5-b7b5bd2e8a42;Malagasy
+fe0c8408-8db9-4993-9816-587d59e06e40;Malawian
+2f76a311-16f2-4094-8e81-ff01041ea9df;Malaysian
+ee1169b6-05c2-49a0-8975-c78676b5d8a2;Maldivian
+2a9c3c6d-93c1-4a67-becb-98378e6a829e;Malian
+c48a253c-d25a-4740-b98d-0766967f14a5;Maltese
+19e9646d-37bc-4679-bdeb-eeb41079ca22;Marshallese
+b199aef5-f29b-494e-b364-adaeff73e32c;Martiniquais
+463319c1-d856-48c0-add9-35a7f6bc0a11;Mauritanian
+de8d9a39-209c-45dc-9ce6-a1a0cfdb4fd8;Mauritian
+703cb30a-fd0f-4a8f-a307-bcb4324eb2a2;Mexican
+d0d38e6e-e16e-4e9b-af5b-77cbe1c16cc6;Micronesian
+a93252e9-29d7-48c0-9824-c2c185730776;Moldovan
+5ca540b1-7376-40b5-b1f8-202303a6c129;Monegasque
+2567b095-5e6f-43f1-82fc-1d0dacbfbffc;Mongolian
+e654dea5-793b-447d-8609-56fce6b6172a;Montenegrin
+4aee0e35-c2a8-415b-8099-28c805ae37fe;Montserratian
+78c940a2-973d-467f-bc1e-65952f43924b;Moroccan
+50445a39-58f2-4178-91f2-07f43cac9a73;Mosotho
+62dbe04d-9762-4a1a-a10e-76b240b9ad07;Mozambican
+01409bed-db5b-4eb1-a6db-6591b7cc93a2;Namibian
+6290e70e-19b3-47f6-b2ff-6000670fa886;Nauruan
+b79d62e6-2a22-4b4f-bd1d-00f2b601f6ec;Nepalese
+1f42435d-b387-45d7-a1ff-02b24fa329dc;New Zealander
+e171af02-4867-4cc1-8a53-9200f7c275bf;Nicaraguan
+e3a95cb7-3eea-4482-9b4e-d340201bc7f5;Nigerian
+90f02cf1-41bb-4915-9b4d-95493269e9af;Nigerien
+e931f083-93f8-4704-967a-7d7cd63c2c5d;Niuean
+4333bbcf-0e78-401d-8bc3-bc5bbdd31f74;North Korean
+be087e55-6b76-4d54-9f99-6ad1f809abbc;Northern Irish
+e8c1581f-d1b0-4694-b2fa-5aa342a7b48f;Norwegian
+a2b84a02-b254-4c83-8e35-bf44d4efd470;Omani
+f8b718cc-3f03-446e-b7f4-bbd86b69baad;Pakistani
+9ad1b4aa-3eca-4333-a5eb-fcd675cc4b55;Palauan
+3d862a03-2818-4745-bb96-b0ec7060a160;Palestinian
+8070d71f-a7c5-4eef-a00f-d790f8d34f64;Panamanian
+8232313a-4679-49e7-b28c-1e8669db4477;Papua New Guinean
+279ffb09-e948-4f76-b5c4-cd2844581c01;Paraguayan
+946bcfc1-9f2c-497f-9b50-e053c0b4397c;Peruvian
+7b96d48e-ec13-4674-8a36-6bea87b94315;Pitcairn Islander
+acc2954f-2901-4762-abb9-4c8816ee8a2d;Polish
+4a1ded7e-736a-4faf-ae85-ddcf61ba6af0;Portuguese
+5fb0ef4c-3880-471f-81ac-d0c1c54de2cf;Prydeinig
+40fe9f21-95a1-4bd2-bace-fe1b926b2d97;Puerto Rican
+56e7351d-24da-49f4-8252-b6b7975fdcc7;Qatari
+f83c7768-8d14-4945-b932-4e6bc1f0fca2;Romanian
+c14f56e1-d5e7-434b-8513-14435e173eb6;Russian
+21ec0105-95f6-4083-9488-aa69e6baa5dc;Rwandan
+9af2b787-9146-4a5f-ae5b-9ce3ed9df399;Salvadorean
+54b0394c-0eb6-48eb-9c66-7bedb204ec16;Sammarinese
+4c63c709-449c-4b97-8994-46121b5269dc;Samoan
+789828f4-9ef3-4409-88f4-e9862d4811a6;Sao Tomean
+5ad8f565-d6c6-4c0c-9a21-64dd199f9161;Saudi Arabian
+fa5167a5-160e-4cdb-9dd9-946dfb6c20cb;Scottish
+3ef23a4b-67bc-4a85-972e-7aa599f33d48;Senegalese
+a32bd9c3-4ad4-4b2a-a5ba-d1f89343933c;Serbian
+d880e943-898d-4b7f-8965-598a4c0f094f;Sierra Leonean
+c2d196d6-653d-4cc9-b57f-ee704df52489;Singaporean
+7695fb77-0166-4800-85bc-b98fb6fde984;Slovak
+d84f3274-db70-4371-9050-a227cb4a26f2;Slovenian
+78d1cde8-8626-4af0-bdcc-d85ac42691fa;Solomon Islander
+39ca7ce6-916c-4a9c-8a8b-2fe87081b507;Somali
+6eeb925c-fc70-4b0b-baa2-9e57e6d1659a;South African
+0ac0617c-7c20-4dcc-b46c-8609400dda72;South Korean
+7708582e-a433-494d-9f60-51b55a5ab469;South Sudanese
+9546c0bb-be74-4819-b6f1-c2c837c32a59;Spanish
+a156c4eb-813e-42e4-8dd5-ca3a5c1075b9;Sri Lankan
+41a018bb-d13e-49cc-aef9-191555a18edd;St Helenian
+d1443a85-5929-48b8-bfac-c7586c1bca11;St Lucian
+d07305bb-4e8f-4a09-b882-b375e7a44d30;Stateless
+133d3e38-704e-4dc5-a72d-e8d4ac8c1975;Sudanese
+7eaa00f9-b472-43c0-b5a6-d5837ec28bfc;Surinamese
+029d19b7-6839-41f0-882b-b7e718eaa77f;Swazi
+39eeffaa-f2c3-44ba-aa34-0e979ec6a022;Swedish
+aaeaad81-96e0-46c1-86b0-0717b05364ed;Swiss
+c9977341-92f7-4a4e-8665-c443be0c0db2;Syrian
+d12797e3-b004-4534-9a14-3bbab110736c;Taiwanese
+f3b8a411-30e6-44fb-acd8-12d860ca8afe;Tajik
+6690a211-8f38-4236-a44b-e33ff702e68d;Tanzanian
+2cff1178-4c2c-48a6-89e1-61d706f772c7;Thai
+0c586d0c-f271-4240-8ac8-cef020a0e3f7;Togolese
+84e337dd-d43d-4df7-b7ba-d1d5e2ed7329;Tongan
+0d5da05d-04a7-4bd2-83a9-6b0fafc8f51f;Trinidadian
+9965db75-3d99-47a0-ab96-56d0f35d554f;Tristanian
+67e7502a-d9ec-4e7f-9bc7-7a01b3a3df66;Tunisian
+92759e37-d0e3-479a-89c6-c5fd5a376c82;Turkish
+4d74b692-f873-452c-8fd9-e3f057a18d83;Turkmen
+5505ce14-fd95-4a15-b22e-d8d9dd3eea82;Turks and Caicos Islander
+84607ca8-a120-49af-997b-39cd7e5ba255;Tuvaluan
+d4bfceb4-6c48-423c-a055-3b6dadce6b1f;Ugandan
+88cb2793-041e-4d73-b76c-a20788273ff2;Ukrainian
+356946ec-addf-4b8b-bc02-8892f23c76bd;Uruguayan
+8bf67356-6de5-47a5-9ee7-631c7dda5536;Uzbek
+69d1347a-db57-43b9-94cc-bcabece0f049;Vatican citizen
+25f5bb2a-0fdd-4fc5-b8eb-b07834a38a70;Venezuelan
+5ea39c7c-5058-43fe-8bb3-466e5e60b896;Vietnamese
+d96f7ebc-4523-410b-8a89-78841ad975c2;Vincentian
+cc78dd3e-8b68-40d1-9ffe-47c43d59e3ba;Wallisian
+04361738-dc85-4cff-a724-babb7ff1c2c0;Welsh
+ca4e5c7a-b381-482c-8d17-eb6a2a677562;Yemeni
+72a97e96-5930-413d-8c82-ef03b4006940;Zambian
+b98dec35-fd76-4786-9c6d-e3d59575eb01;Zimbabwean

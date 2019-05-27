@@ -1,0 +1,227 @@
+﻿83ef5fb6-9f43-48dd-aebb-5909be2be7c8;Afghanistan
+c7a4002b-7a14-4846-bc8b-514d1f7ff778;Albania
+8e655278-7758-4249-aa49-41e51331535b;Algeria
+a780c939-862e-4b1d-8450-1b20c2689981;American Samoa
+1770cf50-03c5-4495-8d67-1371fba1a699;Andorra
+98c3456a-ddc7-45ed-98e0-78e97d699096;Angola
+2cb76446-6eba-44d3-8ec0-5f8cd2053fc1;Anguilla
+c5cc1fd1-d0bb-4e45-a724-f66e80174f54;Antigua & Barbuda
+7664a3b5-3fef-419e-8789-870b056c2c96;Argentina
+dd1c263d-bc01-4fa0-99c6-7d7684b868a8;Armenia
+a9b5c0cb-c4df-43e6-850b-c7d08c26defe;Aruba
+6875c3d4-e4d7-44d0-88b5-9903e9127ea6;Australia
+ad6f8fb1-9348-49b8-8a83-851d28b876e7;Austria
+87d8e179-55cd-4371-87a7-b6cb50db49b8;Azerbaijan
+80117a1f-640c-40f8-a4c1-b9caa2f371d5;Bahamas, The
+c8f8d060-4167-48ae-bbde-e3ea69df9ea9;Bahrain 
+da184777-b0b7-471e-8522-91aee77b729b;Bangladesh 
+a59b5561-2d5d-4d40-babc-c45afbd9ba3b;Barbados 
+4f28f97a-5386-4bf2-ba01-aaeff9c31875;Belarus 
+2937a8db-61f7-4b86-8a93-53ff4628dc06;Belgium 
+04864913-d3b6-422d-8b72-2c1670d6f157;Belize 
+6184400e-95c0-401c-9fe3-7931800e3a6d;Benin 
+960088da-57e1-432b-bd82-55aa9b7ce2b1;Bermuda 
+d097eb07-6934-47c3-a463-eb6cd3390bf3;Bhutan 
+38ef634a-3219-4174-9e3c-3ea76f6d402b;Bolivia 
+bd2c7fa3-ef51-4f78-9f10-92275cb6407b;Bosnia & Herzegovina 
+d79112b3-f009-46d5-bd32-cd9a31f86de4;Botswana 
+7ecb969f-8595-4636-a1d9-3a19a3c942cf;Brazil 
+e55c5840-f7ec-4335-8f0e-0775ca774c36;British Virgin Is. 
+89333213-19bd-4ced-98f8-dc9d92a2fb67;Brunei 
+c8599da2-04c4-4de6-a36e-935fd192f284;Bulgaria 
+df7d418d-5cac-4c4d-9f92-2a38b9dca2c2;Burkina Faso 
+f85f63e5-fe4a-47b9-89bf-2b701b9d8ca8;Burma 
+ba4da1a8-501a-4c17-9420-374e3dd8d0a3;Burundi 
+b92ea5af-2b4a-4cc4-b632-79db4ef43ab2;Cambodia 
+9903122e-6000-44f9-8993-95483e684d78;Cameroon 
+116cd2e0-2b69-4892-ad45-36d3a4c87fe3;Canada 
+55202c0c-94e9-4993-bb6a-7e982ae9de6f;Cape Verde 
+2c7b68f2-c13e-4b3f-a81a-1e591110ccc8;Cayman Islands 
+011571ed-3f59-40da-bca7-bc5c212be719;Central African Rep. 
+1723d1bc-5a61-4de2-a610-9bda05576c6f;Chad 
+03190d81-e561-4892-aec0-7bbfa3b07d01;Chile 
+019de358-deeb-4744-8a98-53ed3396b9dd;China 
+17abc4fe-3321-4533-800e-b4a8a02b4931;Colombia 
+8e3cd716-211b-4526-a165-91d5ac573100;Comoros 
+d39b38fa-7e01-4145-a36c-67a485e4c634;Congo, Dem. Rep. 
+ff7750a2-8f6a-4e1d-8c36-16b28b2f25fa;Congo, Repub. of the 
+4e9f020c-9b5f-4276-8758-e55284027da5;Cook Islands 
+946f42f6-fe31-4192-ac1c-15d1207f708f;Costa Rica 
+409f70ec-eb6b-484e-a8f0-b83b5ece52a3;Cote d'Ivoire 
+b9408d64-865a-4af8-bc19-1058012bac73;Croatia 
+b43084e1-60ac-440e-b9d2-8322ffd05647;Cuba 
+37b52557-f808-4871-94d0-5aeab48bc8dd;Cyprus 
+92d05b10-acdb-40cd-a1c1-f10609b8786d;Czech Republic 
+7f65a64b-ae24-43bc-afab-6ca52242fbd3;Denmark 
+974bcb35-4623-4b57-8c78-c7cd1042037e;Djibouti 
+40feedc2-b42f-4b76-bd1b-1fc60eaab331;Dominica 
+d4e59c5e-9e4f-45b8-a034-28bd164074ed;Dominican Republic 
+9d0e1619-d0bd-4b35-8a90-ce3ff2e18a7d;East Timor 
+59cd0a70-cf97-4772-a0b6-81fb6fed0c8a;Ecuador 
+29e22f9e-9688-4f06-b6ce-b91bdfd4c6ea;Egypt 
+ba3ba15d-f796-4fa8-8e6a-a1d4c9725e70;El Salvador 
+206ed9a4-feb8-4708-aeea-94a87624322f;Equatorial Guinea 
+08fa51e8-9d85-4cd9-a9da-da34ec137577;Eritrea 
+26a1c168-7f17-4416-a6b0-88a43acba27c;Estonia 
+67ecd901-c853-4d83-9ba1-b4656e022666;Ethiopia 
+1c0183bf-0f93-4399-866b-69e2d5d8e27b;Faroe Islands 
+d3768787-a233-4438-add0-f76d6d0cf11c;Fiji 
+34866d08-dddd-4ae3-9fbf-e7f66f808fc5;Finland 
+784b722b-4a8c-4038-985e-8f80b71589a7;France 
+dadfcb47-3b0b-4d95-85eb-97b845488c91;French Guiana 
+1ea0368a-ea72-4333-9c52-0c75e26c2340;French Polynesia 
+2430400e-815c-4566-af21-0107f73ac390;Gabon 
+b8611e0d-38d0-42be-a953-f3d22d343394;Gambia, The 
+41b78e51-6253-41a9-bd03-3aee3b02d657;Gaza Strip 
+3c934a50-162e-4320-b309-8711e1730659;Georgia 
+cc81dfe3-f28a-4d8a-8fd6-23edc19836af;Germany 
+7710d3b0-214a-4917-81cb-2e29f600e3c1;Ghana 
+3537f1f9-64e4-4cf7-9256-002a1a36ce71;Gibraltar 
+a47a2c43-8498-47f2-8dfc-2cb133a441a3;Greece 
+d37096d3-4a91-4fbd-bfb5-aa118774e0bb;Greenland 
+a24a7acc-6541-42ff-a00e-065f526cc61d;Grenada 
+6d91bca1-03a9-4686-8862-565c42ee501f;Guadeloupe 
+e355aeb4-4f40-41a8-a067-27bbf395fa88;Guam 
+ff1067b2-7d34-4ea1-a21f-554283d7766d;Guatemala 
+6f3e743e-8fd4-4496-814e-3518679424de;Guernsey 
+044b214c-8f1e-412b-aa2f-4c5d4562864e;Guinea 
+9aa88f03-8b35-48b7-963d-beada3aebe2d;Guinea-Bissau 
+00afb8d1-9957-4cf0-8b17-c1286ff25813;Guyana 
+095cd5ac-8850-4e21-948a-5b1b97316573;Haiti 
+b66777fe-b475-495c-8e6e-4712cca01147;Honduras 
+7638b188-3799-4623-9c10-99fdf63e0b59;Hong Kong 
+c89c057a-d71d-49ad-9f56-db2448032c89;Hungary 
+05ce1882-cdab-4d18-9560-791d47f1ee77;Iceland 
+0b3773e9-9859-4d67-8059-3abd45a7b61e;India 
+b1b350f2-f947-4bbb-85e4-58d7159cadd5;Indonesia
+a40150a3-ce47-4c71-886d-3bd29273409e;Iran 
+31feb887-c685-4836-a27c-6576c57cc310;Iraq
+9035eb9e-9532-4244-9136-c68c513fec3c;Ireland
+cc9137ec-14f8-45f1-8bb9-0e68b33e077f;Isle of Man
+6a6439a8-492c-4a33-8611-293b48d5fff5;Israel
+e10eb268-6931-43ad-9524-aff89db80723;Italy
+3c12c7f8-cb99-4bf6-829f-8d415bddebde;Jamaica
+caaa3aa8-6552-48ac-8bbe-17e4819e3491;Japan
+b50bee02-464a-45e0-b748-e42d6ac31df9;Jersey
+824f72e4-65f6-45a6-833a-fcf32dafa9bf;Jordan
+1947f3f1-5dba-4c84-87eb-e1d225d3d11b;Kazakhstan
+fbd64c1e-08c0-4ebb-9add-2ac20b1a51c0;Kenya
+60724595-788e-40ba-90f3-56773a62b73d;Kiribati
+7e0c62ef-f476-41de-bc60-ceca1cb1ab9c;Korea, North
+fac8fdfe-3cd8-406c-ba78-0c759c7e64fc;Korea, South
+c4c93a8f-1d9e-43c4-a1d6-45cbbaf97660;Kuwait
+a8841a19-0a81-4c77-bb36-febd8ed4c6ce;Kyrgyzstan
+a35e39f8-41e5-4dc4-a182-b6cc7491d3e1;Laos
+09e59432-fd0f-4885-86eb-1aa3fd62560d;Latvia
+91df0dc9-2187-43ac-894a-7e95f0bf5dbd;Lebanon
+0814dea2-c4ad-42d7-9d02-facb39b82d9a;Lesotho
+8c6d939c-959a-445b-bc0c-f7690b650a63;Liberia
+f569017a-701b-4d0a-9229-2a452696b2fd;Libya
+99d86a68-6da5-44f5-9f16-66426f4710d6;Liechtenstein
+76e7130f-7e63-4a42-8f33-b7cbe0c57560;Lithuania
+24547daa-0a5a-44b5-8344-b4f9694307bf;Luxembourg
+1073b293-3f27-4541-9461-06f8a7960d64;Macau
+8fd2c609-6499-4bc8-a9cb-c5e2c7f7e784;Macedonia
+41283c62-0508-430b-99eb-aceb2d87bc06;Madagascar
+2ca09d07-bc2a-4e24-80c4-aceb6c1c8658;Malawi
+807c8fc2-55cc-493d-940f-0db7a2cf77ad;Malaysia
+d7531083-e16d-43d2-b983-e4b718a03020;Maldives
+55d33c7c-6b38-4730-abc9-68c815a288c3;Mali
+8a767bca-7197-4e69-9baf-7ea60d9eff35;Malta
+d815b0a3-6899-43f5-9e1c-87272ca72562;Marshall Islands
+9192afb6-99a0-4b31-9196-5a57f5c2448b;Martinique
+7f4b5ba6-ec62-48d7-ab5a-4a2e82d64cdb;Mauritania
+a6d051b0-e175-4b35-b6d8-ee3a3e716a92;Mauritius
+4b924515-7d90-4d01-ad06-dba53f8cf621;Mayotte
+c2502939-1965-4a9a-b0cf-5a65443a23e6;Mexico
+bd79207e-0f52-41e1-8015-f5d113ab5c4e;Micronesia, Fed. St.
+67a5a425-9e5c-44b1-8fd7-d41d56d26649;Moldova
+395fb9ed-0d0f-4036-9828-486183d5f34f;Monaco
+4127f223-1fbb-4e8d-905f-8241bbbf0a0a;Mongolia
+8705fc6b-85a6-40e3-9362-dd15f78f2d14;Montserrat
+bcd349d7-228b-400c-b491-88a42891432d;Morocc
+ef1ed4ab-cabe-4552-81ae-69bae63fcce6;Mozambique
+34b00ff1-120c-4309-b53d-a1b8d369cb5d;Namibia
+8ad58b43-7728-4ce8-8d07-975cdce8cc7e;Nauru
+d31de128-80d6-4c0a-90fe-29e602801e78;Nepal
+8c0efdc6-3d5c-40b7-827e-ec41d90d96f1;Netherlands
+75e37948-a082-4fb9-8ed5-339e129d1ec0;Netherlands Antilles
+30ed2737-c21a-4e02-9cff-0f3ce070589c;New Caledonia
+2b0f77d6-ab35-4f1b-a3fc-2fca0488ba30;New Zealand
+475616e9-a382-4ce3-b94d-8876dcb9edc0;Nicaragua
+1d5d4c16-dc7c-4212-84e7-35ab4b46ed4e;Niger
+97f51177-467b-477f-881e-62b15b0fbc52;Nigeria
+ba0d77a9-c04c-431b-929e-f106e4a05dc5;N. Mariana Islands
+f6387c89-4102-4b1c-9b73-777c1f838373;Norway
+0a88199a-c232-42b3-ae65-582bda222e8c;Oman
+99bb2bfb-6d21-4ddb-afd8-dea4eb273950;Pakistan
+cc8435fb-18df-4936-adce-8f20b79a53c8;Palau
+0a470dd4-c7f2-403a-993e-6e8320754169;Panama
+024728d1-32fc-4cbe-8c80-330dda83693b;Papua New Guinea
+b479721e-1d09-4f67-b64f-2af1b701d622;Paraguay
+e94ee586-1e9d-4a71-b054-d8364d49f6ef;Peru
+89601cc0-39c1-47e4-b649-d0ffaa701d3a;Philippines
+35872bdb-22c8-466e-9d7f-11a24c1a551c;Poland
+293996e3-7410-4fdf-96d0-eb95249f7f42;Portugal
+ee84b6e9-9933-4ddf-ab0e-d86c27309466;Puerto Rico
+84bc3c8d-34c5-4e2c-8566-afbb2fe93b1b;Qatar
+e18e877c-8d14-4737-9774-f97964dbad91;Reunion
+c1e89126-1143-4b0d-9bb4-b19934833085;Romania
+b41044a4-dacd-413f-95f6-6f391e017cf2;Russia
+d76c7271-aefe-42d9-9961-78a4e53678ec;Rwanda
+ebd469df-da17-4524-8d4d-ccc4ff428970;Saint Helena
+2601eaea-8903-473b-810b-40b9733296fe;Saint Kitts & Nevis
+0622a683-7e2b-49c0-ae58-eef31632d4e2;Saint Lucia
+34ec3c89-470d-4f93-88cd-e5d75eb259be;St Pierre & Miquelon
+6aef71c4-4715-43f4-8a4d-7b29e1a50fd6;Saint Vincent and the Grenadines
+2611766a-1fe8-4b5c-82f8-c330d6195401;Samoa
+c0e38382-8e27-4a92-ace4-d3ea2c6b5847;San Marino
+22c39d18-042c-4b29-8af9-a642709b93c8;Sao Tome & Principe
+3d8e5ec0-b792-4520-bf07-97985678647b;Saudi Arabia
+09019b1e-228c-49d1-b9bc-6bcefee2dc9f;Senegal
+4bedff7d-31bc-4957-92d6-d42f50755283;Serbia
+04e4e4d6-d841-4d2e-b009-fd307fd0c74f;Seychelles
+98f6e3b7-c582-45af-b260-c28c912dcd1d;Sierra Leone
+5956a704-d9fe-4813-af3d-d9e1e15ecde5;Singapore
+a67409c9-b8c5-45ef-afb5-89a1f6447f4b;Slovakia
+a25cef9f-276f-401f-baeb-b306ad2f3ee7;Slovenia
+d3fe565c-6e29-48e0-8f0e-701096b56f3c;Solomon Islands
+7e450fc5-a892-402f-8706-e16d6af41f3b;Somalia
+8f6f9d0f-41ff-4040-ba12-b975e868ba72;South Africa
+17dd1dac-1533-49a5-b62a-5e6379b9ef35;Spain
+c6df9773-cec6-41da-98b8-6f6c5d316fd5;Sri Lanka
+ed33d326-0e88-40d1-9864-89170c6b8fb6;Sudan
+a44006eb-0c91-4291-80f1-b7f93a1933b6;Suriname
+b40cb016-b967-4372-9659-087c94f220b0;Swaziland
+0400b577-462e-42e7-9eb5-3532c2f20124;Sweden
+a9152fb2-a322-4ef6-a9ff-cd0f8cdd953f;Switzerland
+4b471735-6e11-41a8-9eb5-42812efbf678;Syria
+807bef0c-9c84-4cb9-a659-b0c51cb72514;Taiwan
+cbc25dad-efc7-426f-ab7b-cc2a2b2b8884;Tajikistan
+9e396010-736c-4bfe-b017-8c632d897327;Tanzania
+005ee9b0-0899-4e91-8391-d7801c05902b;Thailand
+272d083f-532f-4df2-9cf1-eb776d38e255;Togo
+9e732a7b-7810-4509-ae0f-250fa362221c;Tonga
+b88e8f6d-1539-4f50-af25-4be3808e49af;Trinidad & Tobago
+b2b454bf-bb0d-4bfa-93b7-791fe5cde5be;Tunisia
+fda965b6-9563-402e-8e6a-bf954d7a5f8c;Turkey
+3ffea89c-3930-4d62-8904-4ccdc09d2f8f;Turkmenistan
+f04b46f3-d1ba-4181-81ea-eacb8ac35b60;Turks & Caicos Is
+b2f5bb42-899b-43a2-b81b-385b5f5cb323;Tuvalu
+384ada84-46cd-4c2d-8516-aa35d44cc11d;Uganda
+2aa5f490-99b3-469a-b1d0-bcea9760d68e;Ukraine
+72e86eda-99bd-4de7-8bae-23226a7c4a8e;United Arab Emirates
+6a3687bc-1c17-4ffb-8bad-004694216a56;United Kingdom
+2e798b20-52a2-4f77-a000-d4a468057535;United States
+34c72ccc-9914-4027-8b7f-556e35473eb8;Uruguay
+30b373f3-bf03-4af6-a403-8c41f2a74839;Uzbekistan
+b18e7ed0-af40-4af8-9bd3-342aec16185f;Vanuatu
+ea06f5bb-d19b-4ad9-9a7a-0cb1ada284a5;Venezuela
+f63dfcd9-5b8c-4148-8a6f-7f047d2e1d0d;Vietnam
+b01f186a-6473-488f-bd77-177dd606ca96;Virgin Islands
+ab138a91-e801-4198-a956-d8eca55d28f4;Wallis and Futuna
+371f4a77-5e38-41a0-9667-dfc00a3791d6;West Bank
+f9ac20d4-af7c-4821-8cc4-042b5d480a87;Western Sahara
+f40e697b-816c-4a71-ad00-b64029825004;Yemen
+1336b82b-5ee9-408c-81eb-ce272ffff048;Zambia
+a37e62e5-3b3d-46cc-a135-3f6a6dcaa02c;Zimbabwe
